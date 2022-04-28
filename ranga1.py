@@ -1,10 +1,4 @@
-hi ho are tou 
-fnn
-gbs
-
-svdv
-dc
-
-d
-
+ 
+i am new user 
+this is first git lab
 
